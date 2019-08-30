@@ -47,3 +47,5 @@ print(a)
 20
 a=a+3
 23
+
+#print ('Hello python!')-----#은 주석
